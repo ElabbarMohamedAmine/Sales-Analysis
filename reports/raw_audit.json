@@ -1,0 +1,16 @@
+{
+    "source_file": "C:\\Users\\moham\\Sales-Analysis\\data\\raw\\train.csv",
+    "rows": 9800,
+    "columns": 18,
+    "missing_values": 11,
+    "duplicate_rows_excluding_row_id": 1,
+    "postal_codes_not_five_digits": 11,
+    "missing_postal_codes": 11,
+    "product_ids_with_multiple_names": 32,
+    "invalid_order_dates": 0,
+    "invalid_ship_dates": 0,
+    "negative_shipping_delays": 0,
+    "sales_total": 2261536.7827,
+    "iqr_outlier_rows": 1145,
+    "iqr_upper_bound": 500.6405
+}

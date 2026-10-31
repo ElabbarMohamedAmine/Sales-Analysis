@@ -1,0 +1,20 @@
+{
+    "source_file": "C:\\Users\\moham\\Sales-Analysis\\data\\raw\\train.csv",
+    "output_file": "C:\\Users\\moham\\Sales-Analysis\\data\\processed\\train_clean.csv",
+    "raw_rows": 9800,
+    "cleaned_rows": 9799,
+    "columns": 23,
+    "removed_duplicates": 1,
+    "removed_duplicate_sales": 281.372,
+    "missing_postal_codes_replaced": 11,
+    "remaining_missing_values": 0,
+    "remaining_duplicate_rows": 0,
+    "product_id_name_combinations": 1893,
+    "product_ids_with_multiple_names": 32,
+    "sales_outliers_flagged": 1145,
+    "sales_outliers_removed": 0,
+    "iqr_upper_bound": 500.558,
+    "raw_sales_total": 2261536.7827,
+    "cleaned_sales_total": 2261255.4107,
+    "cleaning_validation": "PASSED"
+}
